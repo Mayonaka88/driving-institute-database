@@ -1,5 +1,5 @@
 # Driving Institute Database
-> A mock database for a driving institute created in 2021 as a project for my SQL course in the British University in Dubai.
+> A database for a mock driving institute created in 2021 as a project for my SQL introductory course in the British University in Dubai.
 
 > SQL was used in this project.
 
